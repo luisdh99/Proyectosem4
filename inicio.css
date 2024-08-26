@@ -1,0 +1,75 @@
+:root{
+    background-color: rgb(209, 98, 98);
+}
+
+h1{
+    padding-left: 0px;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    padding-left: 0px;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+#escudo{
+    width: 200px;
+    height: 250px;
+    position:relative;
+right: 50%;
+left: 43%;
+margin: 0% 0 0 0%;
+}
+#mapa{
+    width: 325px;
+    height: 350px;
+    position:relative;
+right: 50%;
+left: 40%;
+margin: 0% 0 0 0%;
+
+}
+/* pagina 2 */
+
+#aerea{
+    width: 325px;
+    height: 350px;
+    position:relative;
+right: 20%;
+left: 0%;
+margin: 0% 0 0 0%;
+
+} 
+
+#laguna{
+    width: 325px;
+    height: 350px;
+    position:relative;
+right: 20%;
+left: 0%;
+margin: 0% 0 0 0%;
+
+} 
+#xinanteca{
+    width: 325px;
+    height: 350px;
+    position:relative;
+right: 20%;
+left: 0%;
+margin: 0% 0 0 0%;
+
+}
+
+#Toluca{
+    width: 395px;
+    height: 300px;
+    position:relative;
+right: 0%;
+left: 35%;
+margin: 0% 0 0 0%;
+}
+    
+
